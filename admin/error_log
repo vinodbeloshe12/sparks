@@ -1,0 +1,17 @@
+[01-Sep-2015 03:49:13 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/technfox/public_html/junglecubsgym.com/tf/jcadmin/programadded.php on line 26
+[01-Sep-2015 03:50:20 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/technfox/public_html/junglecubsgym.com/tf/jcadmin/programadded.php on line 27
+[01-Sep-2015 03:51:16 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home3/technfox/public_html/junglecubsgym.com/tf/jcadmin/programadded.php on line 27
+[14-Sep-2015 17:01:16 Etc/GMT] PHP Notice:  Undefined index: username in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/mychk.php on line 3
+[14-Sep-2015 17:01:16 Etc/GMT] PHP Notice:  Undefined index: admin in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/mychk.php on line 4
+[14-Sep-2015 17:03:30 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/galleryadded.php on line 26
+[14-Sep-2015 17:04:53 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/galleryadded.php on line 26
+[14-Sep-2015 17:06:34 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/galleryadded.php on line 26
+[21-Sep-2015 10:14:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/mychk.php on line 3
+[21-Sep-2015 10:14:33 Etc/GMT] PHP Notice:  Undefined index: admin in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/mychk.php on line 4
+[21-Sep-2015 10:46:33 Etc/GMT] PHP Fatal error:  Call to undefined function checkIfTimedOut() in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/check.php on line 18
+[21-Sep-2015 10:46:35 Etc/GMT] PHP Fatal error:  Call to undefined function checkIfTimedOut() in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/check.php on line 18
+[21-Sep-2015 10:46:38 Etc/GMT] PHP Fatal error:  Call to undefined function checkIfTimedOut() in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/check.php on line 18
+[25-Sep-2015 08:53:18 Etc/GMT] PHP Notice:  Undefined index: username in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/mychk.php on line 3
+[25-Sep-2015 08:53:18 Etc/GMT] PHP Notice:  Undefined index: admin in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/mychk.php on line 4
+[25-Sep-2015 10:00:37 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/offeradded.php on line 32
+[25-Sep-2015 10:02:09 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/technfox/public_html/junglecubsgym.com/tf/jcadmin/offeradded.php on line 32
